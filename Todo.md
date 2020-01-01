@@ -23,17 +23,16 @@ LightHouse
 
 ### DevOps
 - [x] Init git repo
-- [ ] Add .gitignore
-- [ ] Install Webpack and Babel
-- [ ] Install Typescript
-- [ ] Install Jest
-- [ ] install Storybook
-- [ ] Create `common`, `production` and `development` webpack.config
-  - [ ] Include JSS handling
-  - [ ] Code-splitting (prefetching, preloading, splitChunks, Dynamic Imports)
-  - [ ] Caching (hashes, runtimeChunk, cacheGroups)
-  - [ ] Tree-Shaking (side-effects)
-  - [ ] Production with merge, mode, npm scripts, minification, source-map, minifyCSS, Media Query Plugin, Long-term caching
+- [x] Add .gitignore
+- [x] Install Webpack and Babel
+- [x] Install Typescript
+- [x] Install Jest
+- [x] install Storybook
+- [x] Create `common`, `production` and `dev` webpack.config
+  - [x] Include JSS handling
+  - [x] Code-splitting (prefetching, preloading, splitChunks, Dynamic Imports)
+  - [x] Caching (hashes, runtimeChunk, cacheGroups)
+  - [x] Production with merge, mode, npm scripts, minification, source-map, minifyCSS, Media Query Plugin, Long-term caching
 
 
 ## Back-end

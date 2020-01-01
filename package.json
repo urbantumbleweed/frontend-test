@@ -1,0 +1,10 @@
+{
+  "name": "superformula-frontend-test",
+  "version": "0.0.1",
+  "description": "Superformula take-home.  Build a production grade react app consuming Yelp graphql api",
+  "main": "index.js",
+  "repository": "git@github.com:urbantumbleweed/frontend-test.git",
+  "author": "Stephen Saunders <saunders.stephen@gmail.com>",
+  "license": "MIT",
+  "private": false
+}

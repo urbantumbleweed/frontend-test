@@ -22,7 +22,7 @@ LightHouse
 ## Steps
 
 ### DevOps
-- [ ] Init git repo
+- [x] Init git repo
 - [ ] Add .gitignore
 - [ ] Install Webpack and Babel
 - [ ] Install Typescript

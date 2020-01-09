@@ -120,14 +120,16 @@ I tend to prefer modular organization within components to group related resourc
     - these are defined at the top-level, but likely consumed via an enhancer to maximize code reusability
  - components
     - each component will have it's own module and will have the following files:
-        - index.js
-        - Component.js
-        - Component.enhancer.js
-        - Component.handlers.js
-        - Component.constants.js
-        - Component.spec.js
-        - Component.styles.js
-        - Component.hooks.js
+        - index.ts
+        - Component.tsx
+        - Component.constants.ts
+        - Component.enhancer.ts
+        - Component.handlers.ts
+        - Component.hooks.ts
+        - Component.interfaces.ts
+        - Component.spec.tsx
+        - Component.stories.tsx
+        - Component.styles.ts
  - enhancers
     - top-level HOCs that get used throughout the app.
         - data layer / GraphQL API (request to business/search api with "Las Vegas" for "location")

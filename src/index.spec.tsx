@@ -1,5 +1,11 @@
-test('blah', () => {
-  expect('stephen').toContain('s');
+describe('Entry', () => {
+  test.todo('Mounts onto the DOM at the `#app` div')
+  test.todo('Loads CSS reset styles')
+  test.todo('Loads CSS normalize styles')
+  test.todo('Register a serviceWorker if in `production` mode')
+  test.todo('ServiceWorker caches CSS and JS according to `StaleWhileRevalidate`')
+  test.todo('ServiceWorker caches font according to `CacheFirst`')
+  test.todo('ServiceWorker caches images according to `CacheFirst`')
+  test.todo('Renders an `App` component')
+  test.todo('`App` is initialized to the `/restaurants` location')
 })
-
-test.todo('this should be pending')
